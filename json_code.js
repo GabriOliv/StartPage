@@ -1,14 +1,17 @@
 var json_= [
     [
+        /* Name of JSON (Just Orientation) */
         "StartPage"
     ],
     [
-        [
+        [ 
+            /* List per Row */ 
             3,
             2,
             1
         ],
         [
+            /* Names */
             "卂丂爪",
             "Oƒƒice",
             "ĐØ₵𝓼...",
@@ -17,24 +20,19 @@ var json_= [
             "ℝ𝕒𝕟𝕕𝕠𝕞"
         ],
         [
+            /* Sizes */
             4,
             4,
             4,
             4,
             4,
             4
-        ],
-        [
-            21,
-            21,
-            21,
-            21,
-            21,
-            21
         ]
     ],
     [
+        /* Lists */
         [
+            /* List 00 */
             [
                 "Nasm Doc",
                 "https://www.nasm.us/doc/nasmdocb.html"
@@ -57,6 +55,7 @@ var json_= [
             ]
         ],
         [
+            /* List 01 */
             [
                 "Gmail",
                 "https://www.google.com/intl/en/gmail/about/"
@@ -75,10 +74,7 @@ var json_= [
             ]
         ],
         [
-            [
-                "",
-                ""
-            ],
+            /* List 02 */
             [
                 "DEV-docs",
                 "https://devdocs.io/settings"
@@ -101,6 +97,7 @@ var json_= [
             ]
         ],
         [
+            /* List 03 */
             [
                 "Unicode List",
                 "https://www.isthisthingon.org/unicode/?page=0F&subpage=D"
@@ -123,6 +120,7 @@ var json_= [
             ]
         ],
         [
+            /* List 04 */
             [
                 "Twitter",
                 "https://twitter.com/twitter"
@@ -153,6 +151,7 @@ var json_= [
             ]
         ],
         [
+            /* List 05 */
             [
                 "JSON Editor",
                 "https://jsoneditoronline.org/"
